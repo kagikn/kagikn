@@ -1,4 +1,6 @@
-### Hi there 👋
+![kagikn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kagikn&show_icons=true&title_color=FF80BF&text_color=F8F8F2&icon_color=8AFF80&bg_color=212C2A)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kagikn&title_color=FF80BF&text_color=F8F8F2&icon_color=8AFF80&bg_color=212C2A&layout=compact)
+[![The repo that someone else owns and I contributed most](https://github-readme-stats.vercel.app/api/pin/?username=crosire&repo=scripthookvdotnet&show_owner=true&title_color=FF80BF&text_color=F8F8F2&icon_color=8AFF80&bg_color=212C2A)](https://github.com/crosire/scripthookvdotnet)
 
 <!--
 **kagikn/kagikn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
